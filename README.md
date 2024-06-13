@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Engr-Nana-Fabu
 - 👀 I’m interested in Web Development and Application Building
-- 🌱 I’m currently learning C, HTML, CSS, JavaScript
+- 🌱 I’m currently learning and doing projects in C, C++, Visual Programming, HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on projects and to work with Companies too!
 - 📫 How to reach me: nanadisue@gmail.com
 
